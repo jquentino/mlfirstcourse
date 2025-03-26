@@ -1,4 +1,4 @@
-# My Machine Learning Fist Course
-This repository contains the codes that I write in my first course of Machine Learning by Coursera: Machine Learning, for Stanford University.
+# My Machine Learning First Course
+This repository contains the code I wrote in my first course of Machine Learning: "Machine Learning for Stanford University" (Coursera).
 
-Each folder corresponds to a week of lectures, inside them have a .pdf file that describes the exercises 
+Each folder corresponds to a week of lectures, and inside them have a .pdf file that describes the exercises 
